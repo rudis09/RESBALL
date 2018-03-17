@@ -53,7 +53,7 @@ a:hover {
 
 #wrapper {
 	overflow: hidden;
-	background: #FFFFFF url(21458145_919024144911796_4751404534525661068_o.jpg) repeat-x left top;
+	background: #FFFFFF url(images/img02.jpg) repeat-x left top;
 }
 
 .container {
@@ -72,7 +72,7 @@ a:hover {
 	width: 1200px;
 	height: 620px;
 	margin: 0 auto;
-	background: url(images/img04.jpg) no-repeat right top;
+	background: url(images/21458145_919024144911796_4751404534525661068_o.jpg) no-repeat right top;
 }
 
 /* Logo */
